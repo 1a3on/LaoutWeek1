@@ -83,9 +83,9 @@ table {
 }
 
 .container img{
-  margin-left: 330px ;
-  
-  vertical-align: middle;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .container h3{
